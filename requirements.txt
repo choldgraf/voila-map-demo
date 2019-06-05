@@ -1,0 +1,9 @@
+name: voila
+channels:
+  - conda-forge
+dependencies:
+  - geopandas
+  - pandas
+  - matplotlib
+  - ipywidgets
+  - voila
